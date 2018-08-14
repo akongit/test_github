@@ -1,1 +1,2 @@
-i am a newer to github,so i want to learn github well!
+i am a newer to github,so i want to learn github wellGit is a version control system.
+Git is free software.!
